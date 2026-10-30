@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "从容 · 离线提词录像",
+  "short_name": "从容提词",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10151c",
+  "theme_color": "#10151c",
+  "description": "免登录的竖屏提词与同机录像工具。文稿和设置保存在本机，安装后可离线使用。",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
